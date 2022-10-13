@@ -36,5 +36,8 @@ A package.json file:
 *  node_modules folder is the repository of modules/ Library which we are using inside our project , that module should present inside the node module folder, when do npm install that time  that module or library install inside node module added in package.json folder and one entry added in pakage.json file.
 
 
+
+![practice](https://user-images.githubusercontent.com/92241659/195635938-7f821d22-2da6-4102-92d7-50c947b3ceff.png)
+
 ![hello](https://user-images.githubusercontent.com/92241659/195631604-7e5938af-ed71-47ac-8604-180ecd10cd73.png)
 
