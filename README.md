@@ -41,3 +41,8 @@ A package.json file:
 
 ![hello](https://user-images.githubusercontent.com/92241659/195631604-7e5938af-ed71-47ac-8604-180ecd10cd73.png)
 
+
+**JSX(JAVASCRIPT XML)
+
+* It allows us to write HTML in React
+
